@@ -91,13 +91,3 @@ public class BusService {
     }
 }
 
-// So for the giving conditions in the question and executing the above codes we obtain the outputs
-
-//Original list:
-//1 2 3 4 5
-//Optimized list with k = 2:
-//2 1 4 3 5
-//Original list:
-//1 2 3 4 5
-//Optimized list with k = 3:
-//3 2 1 5 4
